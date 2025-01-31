@@ -1,0 +1,18 @@
+# My Learning Progress
+
+## Weekly Tasks
+
+- [ ] Week One
+- [ ] Week Two
+- [ ] Week Three
+
+## Books
+
+**Hands-On LLM**  : █░░░░░░░░░░ (12.5%)
+
+<p>Progress:</p>
+<div style="background: #e0e0e0; border-radius: 10px; width: 100%;">
+  <div style="background: #4caf50; width: 12.5%; border-radius: 10px; text-align: center; color: white; padding: 2px;">
+    12.5%
+  </div>
+</div>
