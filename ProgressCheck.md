@@ -1,6 +1,6 @@
 # My Learning Progress
 
-##LLM Learning path
+## LLM Learning path
 ### Weekly Tasks
 
 - [ ] Week One
