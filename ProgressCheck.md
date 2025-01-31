@@ -1,11 +1,12 @@
 # My Learning Progress
 
-## Weekly Tasks
+##LLM Learning path
+### Weekly Tasks
 
 - [ ] Week One
 - [ ] Week Two
 - [ ] Week Three
 
-## Books
+### Books
 
 **Hands-On LLM**  : █░░░░░░░░░░ (12.5%)
