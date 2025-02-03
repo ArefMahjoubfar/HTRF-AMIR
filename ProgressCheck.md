@@ -8,9 +8,6 @@
 - [ ] Week Three
 
 ### Books
+---
 
 **Hands-On LLM**  : █░░░░░░░░░░ (12.5%)
----
-Video1: 
-
-*keywords: Multihead attention, Perplexity metric, LHF, Knowledge distillation, RAG*
