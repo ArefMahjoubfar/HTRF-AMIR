@@ -3,8 +3,8 @@
 ## LLM Learning path
 ### Weekly Tasks
 
-- [ ] Week One
-- [ ] Week Two
+- [X] Week One
+- [X] Week Two
 - [ ] Week Three
 
 ### Books
